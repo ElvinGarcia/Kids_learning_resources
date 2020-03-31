@@ -1,5 +1,5 @@
 
-# Resources 
+# Resources 📖
 
 - Khan Academy 
 [Khan Academy](https://khankids.zendesk.com/hc/en-us)
