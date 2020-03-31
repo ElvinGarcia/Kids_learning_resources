@@ -3,7 +3,7 @@
 
 - Hi, I'm a FullStack Developer form New York that is trying to do his part during the COVID-19 pandemic by helping other. 🏡 
 
-- This repo contains a list of available educational resources that I had found helpful in self teaching my daughter during the these trying times. 
+- This repo contains a list of available educational resources that I had found helpful in self teaching stay at home kids during these trying times. 
 
 
 ## 🎟 Ticket Submit
