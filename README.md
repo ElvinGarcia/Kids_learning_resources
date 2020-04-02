@@ -1,6 +1,8 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/4e0076fa-0c3f-4226-b0f0-a5bb10a680dc/deploy-status)](https://app.netlify.com/sites/musing-wescoff-0ac553/deploys)
 
 
+🕸 [kidsresource.elvingarccia.com](kidsresource.elvingarccia.com)
+
 
 # 📚 Educational Resource  _( When stuck at home with kids )_
 
