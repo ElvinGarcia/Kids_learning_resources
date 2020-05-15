@@ -34,3 +34,7 @@ body {
   font-size: 14px;
   line-height: 2.0;
     }
+    
+#submission_form{
+  display: inline-block;
+}
