@@ -4,7 +4,7 @@
     border: solid 2px black;
     height: auto;
     margin: auto;
-     max-width: 85%
+     max-width: 65%
 }
 #banner img{
     display: block;
@@ -15,7 +15,7 @@
 }
 
 img{
-    max-width: 50%;
+    max-width: 30%;
     border: solid 2px black;
 }
 
